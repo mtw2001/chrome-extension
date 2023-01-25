@@ -1,5 +1,8 @@
 body {
     width: 20rem;
+    background-color: white;
+    font-family: "Poppins";
+    color: black;
   }
   
   ul {
